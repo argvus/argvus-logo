@@ -25,11 +25,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.2854864"
-     inkscape:cx="671.73017"
-     inkscape:cy="229.09616"
+     inkscape:zoom="0.90897615"
+     inkscape:cx="568.22173"
+     inkscape:cy="248.63139"
      inkscape:window-width="1882"
-     inkscape:window-height="1002"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,13 +64,13 @@
     <text
        xml:space="preserve"
        style="font-size:13.3333px;font-family:Microgramma;-inkscape-font-specification:Microgramma;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.185"
-       x="513.20398"
-       y="246.50487"
+       x="341.58231"
+       y="247.60501"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         x="513.20398"
-         y="246.50487"
+         x="341.58231"
+         y="247.60501"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#ffffff;fill-opacity:1">A modular desktop environment for Wayland and Arch Linux, built on Hyprland.</tspan></text>
     <g
        id="g2"
