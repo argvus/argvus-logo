@@ -5,7 +5,7 @@
    height="500"
    version="1.1"
    id="svg6"
-   sodipodi:docname="argvus-lockup-final.svg"
+   sodipodi:docname="ARGVUS-banner.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,17 +22,25 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.25825222"
-     inkscape:cx="1326.2229"
-     inkscape:cy="298.15814"
-     inkscape:window-width="1882"
-     inkscape:window-height="996"
+     inkscape:zoom="0.36522379"
+     inkscape:cx="1299.2034"
+     inkscape:cy="128.68822"
+     inkscape:window-width="1918"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
   <title
      id="title1">ARGVUS</title>
+  <rect
+     style="opacity:0.68239564;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881662;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1"
+     width="339.62259"
+     height="23.694958"
+     x="779.36041"
+     y="150.68382"
+     ry="4.0536923" />
   <g
      transform="matrix(0.33596838,0,0,0.33596838,-59.466403,-87.01581)"
      id="g6">
@@ -66,13 +74,13 @@
      id="path6" />
   <text
      xml:space="preserve"
-     style="font-size:18.6667px;font-family:Monospace;-inkscape-font-specification:Monospace;writing-mode:lr-tb;direction:ltr;opacity:0.488203;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:1.0925"
+     style="font-size:18.6667px;font-family:Monospace;-inkscape-font-specification:Monospace;writing-mode:lr-tb;direction:ltr;opacity:0.809;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:5.05000021;stroke:none;stroke-opacity:1;stroke-dasharray:none"
      x="786.89319"
      y="167.72891"
      id="text6"><tspan
        sodipodi:role="line"
        id="tspan6"
-       style="font-size:18.6667px;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1.0925"
+       style="font-size:18.6667px;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:5.05000021;stroke:none;stroke-opacity:1;stroke-dasharray:none"
        x="786.89319"
        y="167.72891">A modular desktop environment.</tspan></text>
 </svg>
